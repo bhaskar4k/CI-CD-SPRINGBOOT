@@ -49,6 +49,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>ci-cd-springboot-docker</finalName>
 	</build>
 
 </project>
